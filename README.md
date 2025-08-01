@@ -1,1 +1,2 @@
 # Currency-and-Measurement-Converter
+This project is a  GUI-based  desktop application that provides a user-friendly interface for both currency and measurement conversions. Developed in Python using the tkinter library, it's designed to be a simple yet effective tool for various conversion needs. It features two main tabs: one for currency conversion and another for measurement conversion. The currency converter uses a predefined set of exchange rates, while the measurement converter includes a wide array of units across categories like Length, Weight, and Volume.
